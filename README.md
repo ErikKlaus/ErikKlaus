@@ -22,9 +22,9 @@
 - Adobe Illustrator
 
 ### Development
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Laravel
 - Git & GitHub
-- Android (Learning)
+- Flutter (Learning)
 
 ---
 
