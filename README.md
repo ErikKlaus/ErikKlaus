@@ -11,7 +11,7 @@
 - 🎨 UI/UX Design (Figma)
 - 📱 Android Development (Learning)
 - 🌐 Web Development (Side skill)
-- 🖌️ Visual Design (Photoshop & Illustrator)
+- 🖌️ Visual Design (Side Skill)
 
 ---
 
