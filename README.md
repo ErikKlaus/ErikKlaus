@@ -8,10 +8,10 @@
 ---
 
 ## 🔥 What I'm focusing on
-- 🎨 UI/UX Design (Figma)
-- 📱 Android Development (Learning)
-- 🌐 Web Development (Side skill)
-- 🖌️ Visual Design (Side skill)
+- 📱 Android Development (Core Skill)
+- 🎨 UI/UX Design (Adjacent Skill)
+- 🌐 Web Development (Peripheral Skill)
+- 🖌️ Visual Design (Peripheral Skill)
 
 ---
 
@@ -22,15 +22,15 @@
 - Adobe Illustrator
 
 ### Development
+- Flutter (Learning)
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Flutter (Learning)
 
 ---
 
 ## 📌 Current Goals
-- Build a strong UI/UX portfolio
 - Create my first Android app project
+- Build a strong UI/UX portfolio
 - Improve my design-to-development workflow
 
 ---
