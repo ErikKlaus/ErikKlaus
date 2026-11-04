@@ -71,7 +71,7 @@
 ---
 
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 
 | Project | Description | Stack |
