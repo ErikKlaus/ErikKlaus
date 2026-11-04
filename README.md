@@ -9,8 +9,8 @@
 
 ## 🔥 What I'm focusing on
 - 📱 Android Development (Core Skill)
+- 🌐 Web Development (Core Skill)
 - 🎨 UI/UX Design (Adjacent Skill)
-- 🌐 Web Development (Peripheral Skill)
 - 🖌️ Visual Design (Peripheral Skill)
 
 ---
