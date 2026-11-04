@@ -100,13 +100,6 @@
 ## 📊 GitHub Stats
 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ErikKlaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikKlaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-
-<br/><br/>
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErikKlaus&theme=tokyonight&hide_border=true&border_radius=10" />
 
 
