@@ -19,7 +19,7 @@
 ## 🙋 About Me
 
 
-🎓 Computer Science student at **BINUS University** (Working Professional Class)<br/>
+🎓 Computer Science student at **BINUS University** <br/>
 💼 Software Engineer Intern at **Wingstop Indonesia**<br/>
 📱 Built two Flutter apps available on **Google Play Store**<br/>
 🏅 BNSP certified **Junior Web Developer** & **Junior Mobile Developer**
