@@ -4,7 +4,7 @@
 # Hi, I'm Erik Klaus 👋
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+BINUS+University;Software+Engineer+Intern+%40+Wingstop+Indonesia;Web+%26+Mobile+Developer;UI%2FUX+Designer+(Figma)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+BINUS+University;Web+%26+Mobile+Developer;UI%2FUX+Designer+(Figma)" alt="Typing SVG" />
 
 
 <a href="https://www.linkedin.com/in/erikklauskeifaskalalo/"><img src="https://img.shields.io/badge/LinkedIn-Erik%20Klaus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
