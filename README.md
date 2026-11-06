@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+BINUS+University;Software+Engineer+Intern+%40+Wingstop+Indonesia;Web+%26+Mobile+Developer;UI%2FUX+Designer+(Figma)" alt="Typing SVG" />
 
 
-<a href="https://erikklaus.my.id"><img src="https://img.shields.io/badge/Portfolio-erikklaus.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/erikklauskeifaskalalo/"><img src="https://img.shields.io/badge/LinkedIn-Erik%20Klaus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.behance.net/erikklaus1"><img src="https://img.shields.io/badge/Behance-erikklaus1-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="mailto:erikklauskeifaskalalo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -20,7 +19,6 @@
 
 
 🎓 Computer Science student at **BINUS University** <br/>
-💼 Software Engineer Intern at **Wingstop Indonesia**<br/>
 📱 Built two Flutter apps available on **Google Play Store**<br/>
 🏅 BNSP certified **Junior Web Developer** & **Junior Mobile Developer**
 
@@ -90,7 +88,6 @@
 
 
 ✅ Strengthen backend development with Go and SQL<br/>
-✅ Grow my portfolio at [erikklaus.my.id](https://erikklaus.my.id)<br/>
 ✅ Improve my design-to-development workflow
 
 
